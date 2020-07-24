@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import MovieList from "./MovieList";
-import SearchBox from "./SearchBox";
+import MovieList from "./Components/MovieList";
+import SearchBox from "./Components/SearchBox";
 import { movies } from "./movies";
 import "./App.css";
 
