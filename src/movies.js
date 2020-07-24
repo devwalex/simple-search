@@ -29,4 +29,34 @@ export const movies = [
     img: "https://img.netnaija.com/R6bHHK.jpg",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ab, harum laudantium nisi repellendus modi quia! Sunt odio alias quas.",
   },
+  {
+    id: 6,
+    name: "The Outpost",
+    img: "https://img.netnaija.com/_VbHHK.jpg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ab, harum laudantium nisi repellendus modi quia! Sunt odio alias quas.",
+  },
+  {
+    id: 7,
+    name: "The Old Guard",
+    img: "https://img.netnaija.com/QmbHHK.jpg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ab, harum laudantium nisi repellendus modi quia! Sunt odio alias quas.",
+  },
+  {
+    id: 8,
+    name: "Archive",
+    img: "https://img.netnaija.com/FmbHHK.jpg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ab, harum laudantium nisi repellendus modi quia! Sunt odio alias quas.",
+  },
+  {
+    id: 9,
+    name: "First Cow",
+    img: "https://img.netnaija.com/TmbHHK.jpg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ab, harum laudantium nisi repellendus modi quia! Sunt odio alias quas.",
+  },
+  {
+    id: 10,
+    name: "Money Plane",
+    img: "https://img.netnaija.com/LwbHHK.jpg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ab, harum laudantium nisi repellendus modi quia! Sunt odio alias quas.",
+  },
 ];
