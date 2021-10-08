@@ -3165,9 +3165,9 @@ core-js-pure@^3.0.0:
   integrity sha512-epIhRLkXdgv32xIUFaaAry2wdxZYBi6bgM7cB136dzzXXa+dFyRLTZeLUJxnd8ShrmyVXBub63n2NHo2JAt8Cw==
 
 core-js-pure@^3.16.0:
-  version "3.18.0"
-  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.18.0.tgz#e5187347bae66448c9e2d67c01c34c4df3261dc5"
-  integrity sha512-ZnK+9vyuMhKulIGqT/7RHGRok8RtkHMEX/BGPHkHx+ouDkq+MUvf9mfIgdqhpmPDu8+V5UtRn/CbCRc9I4lX4w==
+  version "3.18.2"
+  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.18.2.tgz#d8cc11d4885ea919f3de776d45e720e4c769d406"
+  integrity sha512-4hMMLUlZhKJKOWbbGD1/VDUxGPEhEoN/T01k7bx271WiBKCvCfkgPzy0IeRS4PB50p6/N1q/SZL4B/TRsTE5bA==
 
 core-js@^2.4.0:
   version "2.6.11"
